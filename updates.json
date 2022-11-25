@@ -7,17 +7,17 @@
 			}]
 		},
 
-		"mv3_external@alexandramoga.github.io": {
+		"{4ee15762-c84d-4cd9-99dc-ca067b02f626}": {
 			"updates": [{
-				"version": "2.0",
-				"update_link": "https://alexandramoga.github.io/MV3_version2.zip"
+				"version": "1.0",
+				"update_link": "https://ioanarusiczki.github.io/MV2.zip"
 			}]
 		},
 
-		"mv2-to-mv3@external_updates.io": {
+		"{4ee15762-c84d-4cd9-99dc-ca067b02f626}": {
 			"updates": [{
-				"version": "2.0",
-				"update_link": "https://alexandramoga.github.io/MV2_to_MV3_version2.zip"
+				"version": "2.0.1",
+				"update_link": "https://ioanarusiczki.github.io/MV3.xpi"
 			}]
 
 		},
