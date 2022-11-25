@@ -12,6 +12,18 @@
 				"update_link": "https://ioanarusiczki.github.io/theme2.xpi"
 			}]
 		},
+		"testingthemeonMV3@themes": {
+			"updates": [{
+				"version": "3.0",
+				"update_link": "https://ioanarusiczki.github.io/theme3.xpi"
+			}]
+		},
+		"testingthemeonMV3@themes": {
+			"updates": [{
+				"version": "4.0",
+				"update_link": "https://ioanarusiczki.github.io/theme4.xpi"
+			}]
+		},
 		"MV2testlaMV2@test": {
 			"updates": [{
 				"version": "1.0",
