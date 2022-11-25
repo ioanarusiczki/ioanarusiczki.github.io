@@ -1,12 +1,17 @@
 {
 	"addons": {
-		"addon@external_updates.io": {
+		"testingthemeonMV3@themes": {
 			"updates": [{
-				"version": "1.1",
-				"update_link": "https://alexandramoga.github.io/MV2_version2.zip"
+				"version": "1.0",
+				"update_link": "https://ioanarusiczki.github.io/theme1.xpi"
 			}]
 		},
-
+		"testingthemeonMV3@themes": {
+			"updates": [{
+				"version": "2.0",
+				"update_link": "https://ioanarusiczki.github.io/theme2.xpi"
+			}]
+		},
 		"MV2testlaMV2@test": {
 			"updates": [{
 				"version": "1.0",
