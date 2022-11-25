@@ -1,15 +1,43 @@
 {
 	"addons": {
-		"{53f4ce58-b1b2-4b45-92c5-da87bacf1c12}": {
+		"addon@external_updates.io": {
 			"updates": [{
-				"version": "1.0",
-				"update_link": "https://ioanarusiczki.github.io/version1.zip"
+				"version": "1.1",
+				"update_link": "https://alexandramoga.github.io/MV2_version2.zip"
 			}]
+		},
+
+		"mv3_external@alexandramoga.github.io": {
+			"updates": [{
+				"version": "2.0",
+				"update_link": "https://alexandramoga.github.io/MV3_version2.zip"
+			}]
+		},
+
+		"mv2-to-mv3@external_updates.io": {
+			"updates": [{
+				"version": "2.0",
+				"update_link": "https://alexandramoga.github.io/MV2_to_MV3_version2.zip"
+			}]
+
 		},
 
 		"{53f4ce58-b1b2-4b45-92c5-da87bacf1c12}": {
 			"updates": [{
+				"version": "1.0",
+				"update_link": "https://ioanarusiczki.github.io/version1.zip"
+			},
+			{
 				"version": "2.0",
-				"update_link": "https://ioanarusiczki.github.io/version2.zip"
+				"update_link": "https://ioanarusiczki.github.io/version2.zip",
+				"browser_specific_settings": {
+					"gecko": {
+						"strict_min_version": "109.0a1"
+					}
+				}
 			}]
+
 		}
+
+	}
+}
