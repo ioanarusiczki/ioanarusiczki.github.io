@@ -7,14 +7,14 @@
 			}]
 		},
 
-		"{4ee15762-c84d-4cd9-99dc-ca067b02f626}": {
+		"MV2testlaMV2@test": {
 			"updates": [{
 				"version": "1.0",
-				"update_link": "https://ioanarusiczki.github.io/MV2.zip"
+				"update_link": "https://ioanarusiczki.github.io/MV2.xpi"
 			}]
 		},
 
-		"{4ee15762-c84d-4cd9-99dc-ca067b02f626}": {
+		"MV2testlaMV2@test": {
 			"updates": [{
 				"version": "2.0.1",
 				"update_link": "https://ioanarusiczki.github.io/MV3.xpi"
