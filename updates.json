@@ -53,7 +53,7 @@
 			}]
 
 		},
-			"copyplaintext3@eros.man": {
+			"copyplaintext4@eros.man": {
 			"updates": [{
 				"version": "1.18",
 				"update_link": "https://ioanarusiczki.github.io/test18.xpi"
@@ -61,7 +61,7 @@
 
 		},
 		
-				"copyplaintext3@eros.man": {
+				"copyplaintext4@eros.man": {
 			"updates": [{
 				"version": "1.19",
 				"update_link": "https://ioanarusiczki.github.io/test19.xpi"
