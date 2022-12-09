@@ -42,7 +42,14 @@
 		"copyplaintext2@eros.man": {
 			"updates": [{
 				"version": "1.17",
-				"update_link": "https://ioanarusiczki.github.io/plaintext.xpi"
+				"update_link": "https://ioanarusiczki.github.io/plaintext1.xpi"
+			}]
+
+		},
+			"copyplaintext2@eros.man": {
+			"updates": [{
+				"version": "1.20",
+				"update_link": "https://ioanarusiczki.github.io/plaintext2.xpi"
 			}]
 
 		},
