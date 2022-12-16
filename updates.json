@@ -68,6 +68,22 @@
 			}]
 
 		},
+		
+			"unlistedtest@test.com": {
+			"updates": [{
+				"version": "2.2.0",
+				"update_link": "https://ioanarusiczki.github.io/beta1.xpi"
+			}]
+
+		},
+		
+			"unlistedtest@test.com": {
+			"updates": [{
+				"version": "2.2.2",
+				"update_link": "https://ioanarusiczki.github.io/beta2.xpi"
+			}]
+
+		},
 
 		"{53f4ce58-b1b2-4b45-92c5-da87bacf1c12}": {
 			"updates": [{
