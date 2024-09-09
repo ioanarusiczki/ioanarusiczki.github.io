@@ -100,6 +100,12 @@
 			}]
 
 		},
+		"{07b0390c-8b89-45d2-ad9d-f885ddda1840}": {
+			"updates": [{
+				"version": "1.0",
+				"update_link": "https://ioanarusiczki.github.io/unlisted1.0.xpi"
+			}]
+			},
 		
 		"{53f4ce58-b1b2-4b45-92c5-da87bacf1c12}": {
 			"updates": [{
